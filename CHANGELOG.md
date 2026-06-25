@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.6.0](https://github.com/googleapis/mcp-toolbox/compare/v1.5.0...v1.6.0) (2026-06-25)
+
+
+### Features
+
+* Add dataplex-list-data-products tool ([#3337](https://github.com/googleapis/mcp-toolbox/issues/3337)) ([6dd669a](https://github.com/googleapis/mcp-toolbox/commit/6dd669ad9bad3e54206a82b3af122d845e2cdc63))
+* **looker:** Support complex filter_expression parameter in queries ([#3494](https://github.com/googleapis/mcp-toolbox/issues/3494)) ([997fb8c](https://github.com/googleapis/mcp-toolbox/commit/997fb8c39a4cb60173bcc8543118057e77e0fce4))
+* **looker:** Support dynamic_fields parameter in queries ([#3507](https://github.com/googleapis/mcp-toolbox/issues/3507)) ([cd22b89](https://github.com/googleapis/mcp-toolbox/commit/cd22b893573f87c0d5406490b71ddf317a07dc7b))
+* **tool/cloud-storage:** Support configurable parameters ([#3478](https://github.com/googleapis/mcp-toolbox/issues/3478)) ([bc2de2a](https://github.com/googleapis/mcp-toolbox/commit/bc2de2ab386e0ae8591c4b7f7faa6165b7edf8a2))
+
+
+### Bug Fixes
+
+* **tool/looker-create-view-from-table:** Correct Looker API payload s… ([#3515](https://github.com/googleapis/mcp-toolbox/issues/3515)) ([18c539c](https://github.com/googleapis/mcp-toolbox/commit/18c539c5935c2a496e7e5da68241b4307d8f3e6e))
+
 ## [1.5.0](https://github.com/googleapis/mcp-toolbox/compare/v1.4.0...v1.5.0) (2026-06-18)
 
 
